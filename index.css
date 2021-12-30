@@ -97,6 +97,6 @@ footer{
 }
 
 footer > p > a:hover{
-    text-decoration: none;
     color: rgb(43, 55, 226);
+    text-decoration: none;
 }
