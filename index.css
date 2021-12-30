@@ -47,6 +47,7 @@ header a, footer a {
 
 header a:hover, footer a:hover {
     text-decoration: underline;
+    color: rgb(96, 96, 202);
 }
 
 section{
@@ -93,4 +94,9 @@ footer{
     color: white;
     background-color: black;
     padding: 10px;
+}
+
+footer > p > a:hover{
+    text-decoration: none;
+    color: rgb(43, 55, 226);
 }
